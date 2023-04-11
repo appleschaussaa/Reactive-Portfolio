@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Reactive-Portfolio/static/css/main.4de0fa12.css",
-    "main.js": "/Reactive-Portfolio/static/js/main.7ea8adf9.js",
-    "static/js/787.45916773.chunk.js": "/Reactive-Portfolio/static/js/787.45916773.chunk.js",
-    "index.html": "/Reactive-Portfolio/index.html",
-    "main.4de0fa12.css.map": "/Reactive-Portfolio/static/css/main.4de0fa12.css.map",
-    "main.7ea8adf9.js.map": "/Reactive-Portfolio/static/js/main.7ea8adf9.js.map",
-    "787.45916773.chunk.js.map": "/Reactive-Portfolio/static/js/787.45916773.chunk.js.map"
+    "main.css": "/Reactive-Portfolio/reactive-portfolio/static/css/main.4de0fa12.css",
+    "main.js": "/Reactive-Portfolio/reactive-portfolio/static/js/main.e91198c1.js",
+    "static/js/787.45916773.chunk.js": "/Reactive-Portfolio/reactive-portfolio/static/js/787.45916773.chunk.js",
+    "index.html": "/Reactive-Portfolio/reactive-portfolio/index.html",
+    "main.4de0fa12.css.map": "/Reactive-Portfolio/reactive-portfolio/static/css/main.4de0fa12.css.map",
+    "main.e91198c1.js.map": "/Reactive-Portfolio/reactive-portfolio/static/js/main.e91198c1.js.map",
+    "787.45916773.chunk.js.map": "/Reactive-Portfolio/reactive-portfolio/static/js/787.45916773.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4de0fa12.css",
-    "static/js/main.7ea8adf9.js"
+    "static/js/main.e91198c1.js"
   ]
 }
